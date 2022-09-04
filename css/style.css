@@ -1,0 +1,113 @@
+body {
+    background-color: #EAF6F6;
+    color: #40514E;
+    font-family: 'Merriweather', sans-serif;
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    padding-bottom: 10px;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    line-height: 2;
+}
+
+a {
+    color: #11999F;
+    font-family: 'Montserrat';
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    margin: 100px auto;
+    width: 4%;
+}
+
+.top-container {
+    padding-top: 100px;
+    position: relative;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+
+.pp {
+    width: 25%;
+}
+
+.intro {
+    margin: auto;
+    width: 30%;
+}
+
+.skill-row {
+    margin: 100px auto;
+    text-align: left;
+    width: 50%;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.bottom-cloud {
+    bottom: 250px;
+    left: 300px;
+    position: absolute;
+}
+
+.cimg1 {
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+}
+
+.cimg2 {
+    float: right;
+    margin-left: 30px;
+    width: 25%;
+}
+
+.contact-message {
+    margin: 40px auto 60px;
+    width: 40%;
+}
+
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
